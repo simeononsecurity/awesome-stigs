@@ -17,8 +17,12 @@ A collection of scripts to automate the implementation of Security Technical Imp
 - [Oracle JRE 8 STIG Script](https://github.com/simeononsecurity/Oracle-JRE-8-STIG-Script): Applies the JAVA STIG to a Windows System to bring it to 100% compliance.
 - [FireFox STIG Script](https://github.com/simeononsecurity/FireFox-STIG-Script): Automates the implementation of the FireFox STIG to 100% compliance minus 2 checks.
 
+## VMware STIG Automation
+- [VMware STIG powercli](https://github.com/rlakey/vmware-stig-powercli): PowerCLI Check and Remediation scripts for VMware
+
 ## Contributing
 
 We welcome contributions to this repository! If you have a bugfix, improvement, or new feature, feel free to submit a pull request.
 
 
+## Learn more about [STIGs Automations and Scripts](https://simeononsecurity.ch/github/awesome-stigs)
