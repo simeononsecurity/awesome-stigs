@@ -1,5 +1,7 @@
 # Automated STIG Scripts
 
+[![Sponsor](https://img.shields.io/badge/Sponsor-Click%20Here-ff69b4)](https://github.com/sponsors/simeononsecurity) 
+
 A collection of scripts to automate the implementation of Security Technical Implementation Guides (STIGs) for various systems and applications.
 
 ## Windows STIG Automation
